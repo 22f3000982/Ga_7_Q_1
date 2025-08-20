@@ -1,0 +1,9 @@
+{
+  "name": "marp-doc-presentation",
+  "version": "1.0.0",
+  "description": "Marp presentation project",
+  "main": "slides.md",
+  "scripts": {},
+  "author": "",
+  "license": "MIT"
+}
